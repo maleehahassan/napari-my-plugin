@@ -25,7 +25,7 @@ https://napari.org/stable/plugins/index.html
 Please create do the neccessary steps before
 You can install `napari-my-plugin` via [pip]:
 
-    pip install napari-my-plugin git+https://github.com/maleehahassan/napari-my-plugin.git
+    pip install git+https://github.com/maleehahassan/napari-my-plugin.git
 
 
 
