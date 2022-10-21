@@ -24,7 +24,7 @@ https://napari.org/stable/plugins/index.html
 
 Please follow the instruction to install napari
     
-   conda create -y -n napari-env -c conda-forge 
+   conda create -y -n napari-env -c conda-forge python=3.9
 
 Then, activate the environment
     
