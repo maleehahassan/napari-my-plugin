@@ -22,7 +22,12 @@ https://napari.org/stable/plugins/index.html
 
 ## Installation
 
-Please create do the neccessary steps before
+Please follow the instruction to install napari
+    conda create -y -n napari-env -c conda-forge 
+
+Then, activate the environment
+    conda activate napari-env
+
 You can install `napari-my-plugin` via [pip]:
 
     pip install git+https://github.com/maleehahassan/napari-my-plugin.git
