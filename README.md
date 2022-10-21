@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/githubuser/napari-my-plugin/branch/main/graph/badge.svg)](https://codecov.io/gh/githubuser/napari-my-plugin)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-my-plugin)](https://napari-hub.org/plugins/napari-my-plugin)
 
-A not so awesome plugin. Please do not use it 
+A not so awesome plugin. Please do not use it please
 
 ----------------------------------
 
