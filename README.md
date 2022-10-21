@@ -29,6 +29,9 @@ Please follow the instruction to install napari
 Then, activate the environment
     
    conda activate napari-env
+   
+Now install with
+  conda install -c conda-forge napari
 
 You can install `napari-my-plugin` via [pip]:
 
