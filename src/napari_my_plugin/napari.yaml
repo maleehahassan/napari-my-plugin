@@ -9,7 +9,7 @@ contributions:
       python_name: napari_my_plugin._widget:example_magic_widget
       title: Make example magic widget
     - id: napari-my-plugin.make_func_widget
-      python_name: napari_my_plugin._widget:example_function_widget
+      python_name: napari_my_plugin._widget:segment_image2
       title: Make example function widget
   widgets:
     - command: napari-my-plugin.make_qwidget
@@ -18,4 +18,4 @@ contributions:
       display_name: Example Magic Widget
     - command: napari-my-plugin.make_func_widget
       autogenerate: true
-      display_name: Example Function Widget
+      display_name: pleasework
